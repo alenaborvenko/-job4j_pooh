@@ -5,3 +5,7 @@
 new task
 stash
 task_124176
+Создание ветки из IDEA
+amend
+first
+second
